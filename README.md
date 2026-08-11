@@ -80,4 +80,13 @@ Focuses on the *Voice of the Customer (VoC)*, product feedback ratings, Prime im
 │   ├── Landing_Page.png                 # Preview images for README
 │   ├── Executive_Overview.png
 │   └── Customer_Intelligence.png
-└── README.md                            # Project documentation 
+└── README.md                            # Project documentation
+
+```
+## 👤 Author
+
+Abdelrahman Ghazy
+
+LinkedIn: (https://www.linkedin.com/in/abdelrahman-ghazy-392248426/)
+
+Email: abdelrahmanghazy002@gmail.com
